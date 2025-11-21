@@ -1,0 +1,6 @@
+source[[:space:]]data/test.csv filter=lfs diff=lfs merge=lfs -text
+source[[:space:]]data/train.csv filter=lfs diff=lfs merge=lfs -text
+source[[:space:]]data/val.csv filter=lfs diff=lfs merge=lfs -text
+strength[[:space:]]data/test.csv filter=lfs diff=lfs merge=lfs -text
+strength[[:space:]]data/train.csv filter=lfs diff=lfs merge=lfs -text
+strength[[:space:]]data/val.csv filter=lfs diff=lfs merge=lfs -text
