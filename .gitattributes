@@ -1,0 +1,9 @@
+MDPI_DATA.zip filter=lfs diff=lfs merge=lfs -text
+MDPI_DATA/source[[:space:]]data/test.csv !text !filter !merge !diff
+MDPI_DATA/source[[:space:]]data/train.csv !text !filter !merge !diff
+MDPI_DATA/source[[:space:]]data/val.csv !text !filter !merge !diff
+MDPI_DATA/strength[[:space:]]data/test.csv !text !filter !merge !diff
+MDPI_DATA/strength[[:space:]]data/train.csv !text !filter !merge !diff
+MDPI_DATA/strength[[:space:]]data/val.csv !text !filter !merge !diff
+MDPI_DATA/source[[:space:]]data/train.csv filter=lfs diff=lfs merge=lfs -text
+MDPI_DATA/strength[[:space:]]data/train.csv filter=lfs diff=lfs merge=lfs -text
