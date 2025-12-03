@@ -15,4 +15,4 @@ This repository hosts Jupyter Notebook implementations of DistilBERT models, bui
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/LY-ILY/MDPI_DATA
+   git clone https://github.com/LY-ILY/MDPI_DATA.git
