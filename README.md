@@ -16,3 +16,8 @@ This repository hosts Jupyter Notebook implementations of DistilBERT models, bui
 1. Clone this repository:
    ```bash
    git clone https://github.com/LY-ILY/MDPI_DATA.git
+
+#  The related research work has been published in *Electronics* and is available online at the following links:
+- Website: [https://www.mdpi.com/2079-9292/14/23/4596](https://www.mdpi.com/2079-9292/14/23/4596)
+- PDF Version: [https://www.mdpi.com/2079-9292/14/23/4596/pdf](https://www.mdpi.com/2079-9292/14/23/4596/pdf)
+
